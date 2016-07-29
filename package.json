@@ -1,5 +1,5 @@
 {
-  "name": "git-semver-tags",
+  "name": "lerna-git-semver-tags",
   "version": "1.1.2",
   "description": "Get all git semver tags of your repository in reverse chronological order",
   "homepage": "https://github.com/stevemao/git-semver-tags",
